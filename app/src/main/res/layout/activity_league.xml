@@ -57,7 +57,9 @@
             android:id="@+id/toggleButton"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:background="@drawable/swoosh_button_checked"
             android:text="Mens"
+            android:textColor="#FFFFFF"
             android:textOff="Mens"
             android:textOn="Mens" />
 
