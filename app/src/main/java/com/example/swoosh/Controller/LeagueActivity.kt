@@ -1,6 +1,5 @@
 package com.example.swoosh.Controller
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.os.PersistableBundle
@@ -11,6 +10,7 @@ import com.example.swoosh.R
 import com.example.swoosh.Utilities.EXTRA_PLAYER
 import kotlinx.android.synthetic.main.activity_league.*
 
+@Suppress("NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
 class LeagueActivity : BaseActivity() {
 
     var player = Player("","")
