@@ -1,4 +1,4 @@
-package com.example.swoosh
+package com.example.swoosh.Utilities
 
 import android.view.inputmethod.ExtractedText
 
