@@ -5,10 +5,8 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import com.example.swoosh.Model.Player
-import com.example.swoosh.Utilities.EXTRA_LEAGUE
 import com.example.swoosh.R
 import com.example.swoosh.Utilities.EXTRA_PLAYER
-import com.example.swoosh.Utilities.EXTRA_SKILL
 import kotlinx.android.synthetic.main.activity_skill.*
 
 class SkillActivity : BaseActivity() {
